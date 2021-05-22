@@ -1,0 +1,23 @@
+.col-fav{
+    background-color: cadetblue;
+    text-align: center;
+}
+.col-cont, .card-text{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: small;
+}
+h3{
+    text-align: center;
+    padding: 10px;
+}
+.contacto{
+    padding: 10%;
+    background-color: cadetblue;
+}
+
+footer{
+    background: #148f77;
+    text-align: center;
+    color: white;
+    padding: 50px;
+  }
